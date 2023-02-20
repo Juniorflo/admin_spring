@@ -19,21 +19,26 @@ Nous l'avons utilisé pour tester les requêtes de notre application.
 
 ##### Swagger-ui
 Swagger UI est une interface utilisateur open source pour les API qui permet de visualiser et d'interagir avec les API de manière conviviale et interactive. Nous l'avons utilisé également pour tester les requêtes de notre application.
- file:///home/junior/Pictures/Screenshots/Screenshot%20from%202023-02-20%2009-16-28.png
+
+ 
 
 ### Visualisation du rendu du projet
 
 ##### Test du projet avec swagger
+![Screenshot from 2023-02-20 09-16-28](https://user-images.githubusercontent.com/116844725/220065242-ad623488-e5c6-4e98-8c31-31acff84fe4d.png)
+![Screenshot from 2023-02-20 09-16-38](https://user-images.githubusercontent.com/116844725/220065280-8289c5d8-92e7-4255-b9c4-0a3fc4cb53c9.png)
+![Screenshot from 2023-02-20 09-17-59](https://user-images.githubusercontent.com/116844725/220065305-298a6717-4d1c-483b-896a-9e3d86f66e25.png)
+
+
 
 
 ##### Test du projet avec Postam
-![Screenshot from 2023-02-18 21-10-59](https://user-images.githubusercontent.com/116844725/219941861-3121ca3d-2187-4744-931c-45d3016c9830.png)
-![Screenshot from 2023-02-18 21-11-25](https://user-images.githubusercontent.com/116844725/219941884-afee05f3-6396-4b0a-a808-2a6efc5cc5f9.png)
+![Screenshot from 2023-02-20 09-18-48](https://user-images.githubusercontent.com/116844725/220065458-0900bca6-28fd-4ef1-92f2-19e6d8a54f4b.png)
+![Screenshot from 2023-02-20 09-19-16](https://user-images.githubusercontent.com/116844725/220065577-e4164f27-49c4-472b-bf76-fd23a86b16c6.png)
+![Screenshot from 2023-02-20 09-19-33](https://user-images.githubusercontent.com/116844725/220065608-ac106a30-46f6-4b39-824b-fd8ab6988a5c.png)
 
 
 ##### Affichage de la base de données admindb
-
-![Screenshot from 2023-02-18 21-20-29](https://user-images.githubusercontent.com/116844725/219941155-c17c5e60-c0b4-4cf0-a418-f915175d70a3.png)
-
+![Screenshot from 2023-02-20 09-20-03](https://user-images.githubusercontent.com/116844725/220065811-059b868d-b0eb-4ebc-bf42-b4c805e0f91c.png)
 
 
